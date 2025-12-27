@@ -1,10 +1,21 @@
-💫 About Me:
+# 💫 About Me:
+🔭 I’m currently working on<br>
+• Neximo Studios – Web, AI Automation & Premium UI<br>
+• Real-world apps with Laravel, React & Tailwind<br><br>
 
-🔭 Building Neximo Studios — Web, AI Automation & Premium UI
-👯 Open to SaaS, AI apps & animated web projects
-🌱 Learning Advanced AI, Three.js & Music Production 🎧
-💬 Ask me about Laravel, React, Tailwind, AI & UI/UX
-⚡ Fun fact: I blend tech, design & music 🎶🔥
+👯 I’m looking to collaborate on<br>
+• SaaS & startup ideas<br>
+• AI-powered and animated web apps<br><br>
+
+🌱 I’m currently learning<br>
+• Advanced AI & Three.js<br>
+• Music production 🎧<br><br>
+
+💬 Ask me about<br>
+• Web Dev, AI Automation & UI/UX<br><br>
+
+⚡ Fun fact<br>
+• I mix tech, design & music 🎶🔥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theaftabmurtaza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theaftabmurtaza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aftabmurtazaofficial@gmail.com) 
